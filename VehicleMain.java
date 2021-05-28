@@ -1,5 +1,5 @@
 /*
-* This program receives and outputs information about a car when prompted
+* This program receives and outputs information about a car when prompted.
 *
 * @author  Cameron Teed
 * @version 1.0

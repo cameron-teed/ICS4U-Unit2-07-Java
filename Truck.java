@@ -1,5 +1,5 @@
 /*
-* This class holds information about a vehicle.
+* This class holds information about a Truck.
 *
 * @author  Cameron Teed
 * @version 1.0
@@ -62,6 +62,6 @@ public class Truck extends Vehicle {
 
     this.airBreak = getSpeed() - (this.stopConstant * airAmount);
 
-    return airBreak;
+    return this.airBreak;
   }
 }
